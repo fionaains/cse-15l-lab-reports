@@ -15,7 +15,7 @@
 ***  
 `Inline Code` with backticks  
 ```
-# This is a 
+This is a 
 big
 block
 of code
