@@ -13,4 +13,10 @@
 1. Hello
 2. World  
 ***  
-`Inline Code ` with backticks  
+`Inline Code` with backticks  
+```
+# This is a 
+big
+block
+of code
+```
