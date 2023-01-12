@@ -13,4 +13,4 @@
 1. Hello
 2. World  
 ***  
-'Inline Code ' with backticks  
+`Inline Code ` with backticks  
