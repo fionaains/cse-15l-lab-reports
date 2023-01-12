@@ -13,7 +13,7 @@
 1. Hello
 2. World  
 ***  
-`This is an example of inline Code` with backticks  
+`This is an example of inline Code` which I made with backticks  
 ```
 This is a 
 big
