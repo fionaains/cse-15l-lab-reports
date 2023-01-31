@@ -2,9 +2,9 @@
 
 ## Part 1: String Server
 * The following is my code for the StringServer web server:
-![Image](StringServer.java.png)
+![Image](StringServ.png)
 * Firstly, I added "Hi my name is" to the string:
-![Image](HiMyNameIs.png)
+![Image](MyName.png)
 * In this instance, the method "handleRequest" is called upon and the "if" statement checks 
 that the inputted URL contains the string "/add-message", which it does.
 * Next, the method takes the inputted URL and splits it wherever there is a "=" in the URL.
@@ -13,7 +13,7 @@ These strings are put into an array named "toConcat"
 then returned and displayed on the screen of the user.
 
 * Next, I added "fiona" to the string:
-![Image](Fiona.png)
+![Image](Fi.png)
 * In this case, "handleRequest" is again called upon and it is confirmed that the inputted URL
 contained the string "/add-message".
 * The string tracked by the web server is updated to now start a new line and contain "fiona"
