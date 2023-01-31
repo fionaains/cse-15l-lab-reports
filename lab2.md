@@ -1,8 +1,22 @@
 # Lab Report 2, Week 4
 
-## Part 1: 
+## Part 1: String Server
+* The following is my code for the StringServer web server:
+![Image](StringServer.java.png)
+* Firstly, I added "Hi my name is" to the string:
+![Image](HiMyNameIs.png)
+* In this instance, the method "handleRequest" is called upon and the "if" statement checks 
+that the inputted URL contains the string "/add-message", which it does.
+* Next, the method takes the inputted URL and splits it wherever there is a "=" in the URL.
+These strings are put into an array named "toConcat"
+* Finally, the new strings is concatenated to the string after a new line "\n". The string is 
+then returned and displayed on the screen of the user.
 
-
+* Next, I added "fiona" to the string:
+![Image](Fiona.png)
+* In this case, "handleRequest" is again called upon and it is confirmed that the inputted URL
+contained the string "/add-message".
+* The string tracked by the web server is updated to now start a new line and contain "fiona"
 
 ## Part 2: Bugs
 * The method that I have chosen to focus on is the "reversed" method in the ArrayExamples class.
