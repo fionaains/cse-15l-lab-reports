@@ -9,7 +9,7 @@
 ## The '-type' Option
 
 * The '-type' command limits a search to only a certain type of output. 
-* For example, here are some types that a user can limit their search to:  
+* For example, here are some types that a user can limit their search to:    
 
 ![Image](types.png)  
 
