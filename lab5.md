@@ -30,4 +30,7 @@ all results that contain the string in their name.
 * The '-exec' command allows a user to search for files and then execute a command to each result.
 * When using this command, users can use '{}' to denote the name of the found file(s).
 
-Example 1: 
+Example 1: Using 'exec' with 'grep'
+![Image](execGrep.png)
+* In this example, I searched for all files that contain ".txt" in their name. I then used the 'grep' command to search for the string "Lucayans".
+* This is helpful because users can further filter their search when looking for specific 
